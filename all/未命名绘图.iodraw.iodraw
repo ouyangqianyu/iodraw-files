@@ -36,11 +36,11 @@
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-7" value="SWOT捕捉到的两条涡旋轨道，而传统高度计捕捉到的一条" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="260" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AhwwwHDxUOlwWpuDEmNE-8" value="SWOT捕捉到的两条涡旋轨道，而传统高度计捕捉到的一条" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="260" width="110" height="40" as="geometry" />
+        <mxCell id="AhwwwHDxUOlwWpuDEmNE-8" value="传统高度计捕捉到的两条涡旋轨道，而SWOT捕捉到的一条" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="260" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-9" value="SWOT捕捉到的寿命更长的涡旋" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="510" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
