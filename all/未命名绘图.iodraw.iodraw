@@ -22,8 +22,16 @@
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-3" value="SWOT跟踪涡旋轨迹结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="80" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AhwwwHDxUOlwWpuDEmNE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AhwwwHDxUOlwWpuDEmNE-4" target="AhwwwHDxUOlwWpuDEmNE-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="140" />
+              <mxPoint x="415" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-4" value="传统高度计跟踪涡旋轨迹结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="80" width="90" height="40" as="geometry" />
+          <mxGeometry x="315" y="80" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-5" value="SWOT跟踪涡旋轨迹结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="350" width="90" height="40" as="geometry" />
