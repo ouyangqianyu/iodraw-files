@@ -74,6 +74,11 @@
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-9" value="SWOT捕捉到涡旋轨道与传统高度计捕捉到相匹配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="250" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="AhwwwHDxUOlwWpuDEmNE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AhwwwHDxUOlwWpuDEmNE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AhwwwHDxUOlwWpuDEmNE-11" value="涡旋寿命" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="150" width="90" height="40" as="geometry" />
         </mxCell>
